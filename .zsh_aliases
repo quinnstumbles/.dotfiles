@@ -1,0 +1,11 @@
+export PATH="/usr/local/bin:/usr/local/sbin:~/bin:$PATH"
+export EDITOR="nvim"
+
+alias brewup='brew update; brew upgrade; brew cleanup; brew doctor'
+alias la="ls -a"
+alias lsa="ls -a"
+alias lsl="ls -l"
+alias v="nvim"
+alias vim="nvim"
+alias cl="clear"
+alias dotfiles='/usr/local/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'

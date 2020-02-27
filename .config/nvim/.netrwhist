@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/Users/quinn/.conda'
+let g:netrw_dirhist_9='/Users/quinn/.dotfiles'
+let g:netrw_dirhist_8='/Users/quinn/.ssh'
+let g:netrw_dirhist_7='/Users/quinn/.config/nvim'
+let g:netrw_dirhist_6='/Users/quinn/.config'
+let g:netrw_dirhist_5='/Users/quinn/paradigms/inclass-example'
+let g:netrw_dirhist_4='/Users/quinn/paradigms'
+let g:netrw_dirhist_3='/Users/quinn/paradigms/hw'
+let g:netrw_dirhist_2='/Users/quinn/d-and-a/assignments/assignment2'
+let g:netrw_dirhist_1='/Users/quinn/d-and-a/assignments/assignment5/InsertionSort.java'
